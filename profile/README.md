@@ -14,6 +14,6 @@
 阿尼亚图片摘自:
 https://alphacoders.com/anya-forger-wallpapers
 -->
-<img alt="Anya!!!" src="../assets/anya.jpg" > </img>
+<img alt="Anya!!!" src="https://github.com/SPY-FAMILY/.github/blob/main/assets/anya.jpg?raw=true" > </img>
 
 </div>
